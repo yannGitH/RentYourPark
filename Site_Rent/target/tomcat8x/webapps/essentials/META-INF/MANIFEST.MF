@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Rent Your Park Essentials
+Implementation-Version: 1.0.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: juanpablo.CASAS
+Implementation-Vendor-Id: com.y2c.rent
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_60
+Implementation-Vendor: 
+

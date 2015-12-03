@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>Site_Rent</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedBeansPackage>com.y2c.rent.beans</selectedBeansPackage>
+  <selectedComponentsPackage>com.y2c.rent.components</selectedComponentsPackage>
+  <selectedRestPackage>com.y2c.rent.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>
